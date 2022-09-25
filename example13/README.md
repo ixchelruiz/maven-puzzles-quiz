@@ -1,9 +1,10 @@
 ##Question 13
-Given the following POM file, which version of Guava will be selected? Guava 27.0.1-android is a transitive dependency of Truth 1.0
+Given the following POM file, which version of Guava will be selected? Guava 30.1.1-android is a transitive dependency of Truth 1.1.3
 ##Answers
-* 26.0-jre 
-* 27.0.1-android
-* 28.2-jre 
+* 28.0-jre
+* 29.0-jre
+* 30.1.1-android
 * Build error
+
 
 
