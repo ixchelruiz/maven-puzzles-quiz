@@ -5,3 +5,4 @@ Given the following POM file, which version of Guava will be selected? Guava 30.
 * 28.0-jre (*)
 * 30.1.1-android
 * Build error
+
